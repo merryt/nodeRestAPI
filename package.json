@@ -1,0 +1,27 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "A Sample RestAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merryt/nodeRestAPI.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "API"
+  ],
+  "author": "Tyler Merry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merryt/nodeRestAPI/issues"
+  },
+  "homepage": "https://github.com/merryt/nodeRestAPI#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
