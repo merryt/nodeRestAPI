@@ -19,6 +19,9 @@ var bookController = function(Book) {
 			if (err) {
 				res.status(500).send(err)
 			} else {
+				books.forEach(function(element){
+					
+				});
 				res.json(books)
 			}
 		});
